@@ -1,0 +1,90 @@
+{
+    "morigaon" : {
+        "title": "Morigaon",
+        "href": "morigaon",
+        "collapsible": {
+        "title": "District Highlights & Information",
+        "content": {
+            "cards": [
+            {
+                "value": "₹ 4,20,672 Cr.",
+                "label": "Total Receipts",
+                "color": "highlight"
+            },
+            {
+                "value": "₹ 4,20,672 Cr.",
+                "label": "Total Receipts",
+                "color": "highlight"
+            },
+            {
+                "value": "₹ 4,20,672 Cr.",
+                "label": "Total Receipts",
+                "color": "highlight"
+            },
+            {
+                "value": "₹ 4,20,672 Cr.",
+                "label": "Total Receipts",
+                "color": "highlight"
+            }
+            ],
+            "rightTitle": "About Morigaon",
+            "description": ["Test Desc"]
+        }
+        },
+        "listTitle": "Browse Line Departments",
+        "list": [
+        {
+            "label": "Panchayat & Rural Development",
+            "href": "panchayat-and-rural-development"
+        },
+        {
+            "label": "Public Health Engineering",
+            "href": "public-health-engineering"
+        }
+        ]
+    },
+    "morigaon-1" : {
+        "title": "Morigaon1",
+        "href": "morigaon-1",
+        "collapsible": {
+        "title": "District Highlights & Information",
+        "content": {
+            "cards": [
+            {
+                "value": "₹ 4,20,672 Cr.",
+                "label": "Total Receipts",
+                "color": "highlight"
+            },
+            {
+                "value": "₹ 4,20,672 Cr.",
+                "label": "Total Receipts",
+                "color": "highlight"
+            },
+            {
+                "value": "₹ 4,20,672 Cr.",
+                "label": "Total Receipts",
+                "color": "highlight"
+            },
+            {
+                "value": "₹ 4,20,672 Cr.",
+                "label": "Total Receipts",
+                "color": "highlight"
+            }
+            ],
+            "rightTitle": "About Morigaon",
+            "description": ["Test Desc"]
+        }
+        },
+        "listTitle": "Browse Line Departments",
+        "list": [
+        {
+            "label": "Panchayat & Rural Development",
+            "href": "panchayat-and-rural-development"
+        },
+        {
+            "label": "Public Health Engineering",
+            "href": "public-health-engineering"
+        }
+        ]
+    }    
+}

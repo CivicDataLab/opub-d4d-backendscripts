@@ -1,0 +1,156 @@
+{
+    "morigaon": {
+        "distTitle": "Morigaon",
+        "depts": {
+            "panchayat-and-rural-development": {
+                "deptTitle": "Panchayat and Rural Development",
+                "collapsible": {
+                    "title": "Department Information",
+                    "content": [
+                        "The Panchayat & Rural Development Department largely works to enhance livelihood opportunities, address chronic poverty, provides social security and works for economic inclusion of rural poor families. The Panchayat & Rural Development Department has been implementing a number of programmes in the rural area of the State by empowering rural poor through power of rights based law, aiming to transform the geography of poverty in the State."
+                    ]
+                },
+                "listTitle": "Browse Schemes and Surveys",
+                "list": [
+                    {
+                        "label": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                        "href": "mgnrega",
+                        "image": "/logo/mgnrega.webp",
+                        "lastUpdated": "7-2023-09",
+                        "cards": [
+                            {
+                                "value": "INR 233.45",
+                                "label": "Average wage per personday"
+                            },
+                            {
+                                "value": "INR 269.38",
+                                "label": "Cost per personday"
+                            },
+                            {
+                                "value": "INR 234.48 Lakhs",
+                                "label": "Total Payment Due"
+                            },
+                            {
+                                "value": "51.36%",
+                                "label": "Person Days Generated as a share of Cumulative Projection of Person Days"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "public-health-engineering": {
+                "deptTitle": "Public Health Engineering",
+                "collapsible": {
+                    "title": "Department Information",
+                    "content": [
+                        "The Public Health Engineering Department has a mission to enhance quality of life of the people by ensuring sustainable safe drinking water and sanitation facilities and services along with promoting hygiene practices according to their choices and affordability."
+                    ]
+                },
+                "listTitle": "Browse Schemes and Surveys",
+                "list": [
+                    {
+                        "label": "Jal Jeevan Mission (JJM)",
+                        "href": "jjm",
+                        "image": "/logo/nhm.png",
+                        "lastUpdated": "7-2023-16",
+                        "cards": [
+                            {
+                                "value": "63,183",
+                                "label": "FHTC tagged with beneficiary"
+                            },
+                            {
+                                "value": "28.29%",
+                                "label": "Percentage of HH with FHTC"
+                            },
+                            {
+                                "value": "91.23%",
+                                "label": "Percentage of schools with drinking water connection"
+                            },
+                            {
+                                "value": "0.0%",
+                                "label": "Percentage of habitations covered with CWPP/IHP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "nagaon": {
+        "distTitle": "Nagaon",
+        "depts": {
+            "panchayat-and-rural-development": {
+                "deptTitle": "Panchayat and Rural Development",
+                "collapsible": {
+                    "title": "Department Information",
+                    "content": [
+                        "The Panchayat & Rural Development Department largely works to enhance livelihood opportunities, address chronic poverty, provides social security and works for economic inclusion of rural poor families. The Panchayat & Rural Development Department has been implementing a number of programmes in the rural area of the State by empowering rural poor through power of rights based law, aiming to transform the geography of poverty in the State."
+                    ]
+                },
+                "listTitle": "Browse Schemes and Surveys",
+                "list": [
+                    {
+                        "label": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                        "href": "mgnrega",
+                        "image": "/logo/mgnrega.webp",
+                        "lastUpdated": "7-2023-09",
+                        "cards": [
+                            {
+                                "value": "INR 233.46",
+                                "label": "Average wage per personday"
+                            },
+                            {
+                                "value": "INR 260.7",
+                                "label": "Cost per personday"
+                            },
+                            {
+                                "value": "INR 1,369.65 Lakhs",
+                                "label": "Total Payment Due"
+                            },
+                            {
+                                "value": "21.82%",
+                                "label": "Person Days Generated as a share of Cumulative Projection of Person Days"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "public-health-engineering": {
+                "deptTitle": "Public Health Engineering",
+                "collapsible": {
+                    "title": "Department Information",
+                    "content": [
+                        "The Public Health Engineering Department has a mission to enhance quality of life of the people by ensuring sustainable safe drinking water and sanitation facilities and services along with promoting hygiene practices according to their choices and affordability."
+                    ]
+                },
+                "listTitle": "Browse Schemes and Surveys",
+                "list": [
+                    {
+                        "label": "Jal Jeevan Mission (JJM)",
+                        "href": "jjm",
+                        "image": "/logo/nhm.png",
+                        "lastUpdated": "7-2023-16",
+                        "cards": [
+                            {
+                                "value": "1,76,351",
+                                "label": "FHTC tagged with beneficiary"
+                            },
+                            {
+                                "value": "44.86%",
+                                "label": "Percentage of HH with FHTC"
+                            },
+                            {
+                                "value": "99.83%",
+                                "label": "Percentage of schools with drinking water connection"
+                            },
+                            {
+                                "value": "0.0%",
+                                "label": "Percentage of habitations covered with CWPP/IHP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

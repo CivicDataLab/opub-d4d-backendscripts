@@ -1,0 +1,616 @@
+{"morigaon" :
+    {
+        "distTitle": "Morigaon",
+        "depts" :
+        {
+            "panchayat-and-rural-development" : 
+            {"deptTitle": "Panchayat & Rural Development",
+                "schemes" :
+                {
+                    "mgnrega" : 
+                    {
+                        "schemeTitle": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                        "schemeDesc": "Description Description Description Description Description Description Description Description Description",
+                        "lastUpdated": "01-08-2023",
+                        "targetTitle": "Targets",
+                        "targets": [
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        },
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        }
+                        ]
+                    },
+                    "jjm" : 
+                    {
+                        "schemeTitle": "Jal Jeevan Mission(jjm)",
+                        "schemeDesc": "Description Description Description Description Description Description Description Description Description",
+                        "lastUpdated": "01-08-2023",                            
+                        "targetTitle": "Targets",
+                        "targets": [
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        },
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        }
+                        ]
+                    }
+                }                        
+            },
+            "public-health-engineering" : 
+            {"deptTitle": "public-health-engineering",
+                "schemes" :
+                {
+                    "mgnrega" : 
+                    {
+                        "schemeTitle": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                        "schemeDesc": "Description Description Description Description Description Description Description Description Description",
+                        "lastUpdated": "01-08-2023",
+                        "targetTitle": "Targets",
+                        "targets": [
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        },
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        }
+                        ]
+                    },
+                    "jjm" : 
+                    {
+                        "schemeTitle": "Jal Jeevan Mission(jjm)",
+                        "schemeDesc": "Description Description Description Description Description Description Description Description Description",
+                        "lastUpdated": "01-08-2023",                            
+                        "targetTitle": "Targets",
+                        "targets": [
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        },
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+ "morigaon-1" :
+    {
+        "distTitle": "Morigaon",
+        "depts" :
+        {
+            "panchayat-and-rural-development" : 
+            {"deptTitle": "Panchayat & Rural Development",
+                "schemes" :
+                {
+                    "mgnrega" : 
+                    {
+                        "schemeTitle": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                        "schemeDesc": "Description Description Description Description Description Description Description Description Description",
+                        "lastUpdated": "01-08-2023",
+                        "targetTitle": "Targets",
+                        "targets": [
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        },
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        }
+                        ]
+                    },
+                    "jjm" : 
+                    {
+                        "schemeTitle": "Jal Jeevan Mission(jjm)",
+                        "schemeDesc": "Description Description Description Description Description Description Description Description Description",
+                        "lastUpdated": "01-08-2023",                            
+                        "targetTitle": "Targets",
+                        "targets": [
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        },
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        }
+                        ]
+                    }
+                }                        
+            },
+            "public-health-engineering" : 
+            {"deptTitle": "public-health-engineering",
+                "schemes" :
+                {
+                    "mgnrega" : 
+                    {
+                        "schemeTitle": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                        "schemeDesc": "Description Description Description Description Description Description Description Description Description",
+                        "lastUpdated": "01-08-2023",
+                        "targetTitle": "Targets",
+                        "targets": [
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        },
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        }
+                        ]
+                    },
+                    "jjm" : 
+                    {
+                        "schemeTitle": "Jal Jeevan Mission(jjm)",
+                        "schemeDesc": "Description Description Description Description Description Description Description Description Description",
+                        "lastUpdated": "01-08-2023",                            
+                        "targetTitle": "Targets",
+                        "targets": [
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        },
+                        {
+                            "value": 37.6,
+                            "label": "Person Days Generated",
+                            "description": "The number of person days generated is the total number of days worked by all the workers in the scheme.",
+                            "type": "progress"
+                        }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        },
+                        {
+                            "label":"Number of total workers, women workers, and male workers with active job cards",
+                            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                            "image": "/logo/barPlaceholder.png",
+                            "data": {
+                                "xAxis": ["Mon", "Tue", "Wed"],
+                                "values": [123,89, 150]
+                                }
+                        }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        },
+                        {
+                            "value": "₹ 297",
+                            "label": "Average Daily Wage",
+                            "description": "The average daily wage is the total amount of wages paid to all the workers divided by the total number of days worked by all the workers."
+                        }
+                        ]
+                    }
+                }
+            }
+        }
+    }    
+}                       
+

@@ -1,0 +1,436 @@
+{
+    "morigaon": {
+        "distTitle": "Morigaon",
+        "depts": {
+            "panchayat-and-rural-development": {
+                "deptTitle": "Panchayat and Rural Development",
+                "schemes": {
+                    "mgnrega": {
+                        "schemeTitle": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                        "schemeDesc": "The objective of MGNREGS is to enhance livelihood security of the rural masses. The scheme is meant to provide at least 100 days of wage employment per financial year (FY) to every rural household whose adult members are willing to do unskilled manual work. This is one of the world\u2019s largest public sector employment programmes that provides guaranteed income through employment.",
+                        "lastUpdated": "2023-11-08",
+                        "targetTitle": "Targets",
+                        "targets": [
+                            {
+                                "value": 28.57,
+                                "label": "Person Days Generated as a share of Cumulative Projection of Person Days",
+                                "description": "Person Days Generated as a share of Cumulative Projection of Person Days",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 99.38,
+                                "label": "Cumulative Expenditure in Current Financial Year as a share of Total Available Funds",
+                                "description": "Cumulative Expenditure in Current Financial Year as a share of Total Available Funds",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 50.78,
+                                "label": "ABPS Enabled Accounts as a share of Total Active Workers",
+                                "description": "ABPS Enabled Accounts as a share of Total Active Workers",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 83.13,
+                                "label": "Percentage of Projects with completed geotagging",
+                                "description": "Percentage of Projects with completed geotagging",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                            {
+                                "label":"Share of women workers, and male workers with active job cards",
+                                "description": "Share of women workers, and male workers with active job cards",
+                                "data": {
+                                    "xAxis": ["Women", "Men"],
+                                    "values": [48,52]
+                                    },
+                                "type": "bar"
+                            },   
+                            {
+                                "label":"Share of SC, ST and Other workers with active job cards",
+                                "description": "Share of SC, ST and Other workers with active job cards",
+                                "data": {
+                                    "xAxis": ["SC", "ST", "Others"],
+                                    "values": [9,11,80]
+                                    },
+                                "type": "bar"
+                            }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                            {
+                                "value": "INR 1,665.53",
+                                "label": "Average wage per personday",
+                                "description": "Average wage per personday",
+                                "type": "number"
+                            },
+                            {
+                                "value": "INR 2,109.59",
+                                "label": "Cost per personday",
+                                "description": "Cost per personday",
+                                "type": "number"
+                            },
+                            {
+                                "value": "INR 19.29 Lakhs",
+                                "label": "Total Payment Due",
+                                "description": "Total Payment Due",
+                                "type": "number"
+                            },
+                            {
+                                "value": "INR 1.27",
+                                "label": "Cost to Generate 1 rupee wage",
+                                "description": "Cost to Generate 1 rupee wage",
+                                "type": "number"
+                            },
+                            {
+                                "value": "89%",
+                                "label": "Employment Availed as a share of Employment Offered",
+                                "description": "Employment Availed as a share of Employment Offered",
+                                "type": "number"
+                            },
+                            {
+                                "value": "5%",
+                                "label": "Share of transactions delayed for more than 8 days",
+                                "description": "Share of transactions delayed for more than 8 days",
+                                "type": "number"
+                            },
+                            {
+                                "value": "5%",
+                                "label": "Share of amount delayed for more than 8 days",
+                                "description": "Share of amount delayed for more than 8 days",
+                                "type": "number"
+                            },
+                            {
+                                "value": "49%",
+                                "label": "Share of persondays generated for women",
+                                "description": "Share of persondays generated for women",
+                                "type": "number"
+                            }
+                        ]
+                    }
+                }
+            },
+            "public-health-engineering": {
+                "deptTitle": "Public Health Engineering",
+                "schemes": {
+                    "jjm": {
+                        "schemeTitle": "Jal Jeevan Mission (JJM)",
+                        "schemeDesc": "The National Rural Drinking Water Programme / Jal Jeevan Mission is an initiative of the Government of India under the Ministry of Jal Shakti. It aims to provide safe and adequate drinking water to all households in rural India through provision of individual household tap connections by the year 2024.",
+                        "lastUpdated": "2023-11-08",
+                        "targetTitle": "Targets",
+                        "targets": [
+                            {
+                                "value": 28.29,
+                                "label": "Percentage of HH with FHTC",
+                                "description": "Percentage of HH with FHTC",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 91.23,
+                                "label": "Percentage of schools with drinking water connection",
+                                "description": "Percentage of schools with drinking water connection",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 100.0,
+                                "label": "Percentage of health centres with water connection",
+                                "description": "Percentage of health centres with water connection",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                            {
+                                "value": "2,26,179",
+                                "label": "HH as on April 1, 2023",
+                                "description": "HH as on April 1, 2023",
+                                "type": "number"
+                            },
+                            {
+                                "value": "568",
+                                "label": "Villages",
+                                "description": "Villages",
+                                "type": "number"
+                            },
+                            {
+                                "value": "1996",
+                                "label": "Habitations",
+                                "description": "Habitations",
+                                "type": "number"
+                            },
+                            {
+                                "value": "2,26,179",
+                                "label": "HouseHolds",
+                                "description": "HouseHolds",
+                                "type": "number"
+                            },
+                            {
+                                "value": "11,21,463",
+                                "label": "Population",
+                                "description": "Population",
+                                "type": "number"
+                            },
+                            {
+                                "value": "0.19%",
+                                "label": "Percentage of HH with own / private connection",
+                                "description": "Percentage of HH with own / private connection",
+                                "type": "number"
+                            }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                            {
+                                "value": 100,
+                                "label": "Percentage of approved government offices with tap connection",
+                                "description": "Percentage of approved government offices with tap connection",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 0,
+                                "label": "Percentage of habitations covered with CWPP/IHP",
+                                "description": "Percentage of habitations covered with CWPP/IHP",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "nagaon": {
+        "distTitle": "Nagaon",
+        "depts": {
+            "panchayat-and-rural-development": {
+                "deptTitle": "Panchayat and Rural Development",
+                "schemes": {
+                    "mgnrega": {
+                        "schemeTitle": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                        "schemeDesc": "The objective of MGNREGS is to enhance livelihood security of the rural masses. The scheme is meant to provide at least 100 days of wage employment per financial year (FY) to every rural household whose adult members are willing to do unskilled manual work. This is one of the world\u2019s largest public sector employment programmes that provides guaranteed income through employment.",
+                        "lastUpdated": "2023-11-08",
+                        "targetTitle": "Targets",
+                        "targets": [
+                            {
+                                "value": 9.12,
+                                "label": "Person Days Generated as a share of Cumulative Projection of Person Days",
+                                "description": "Person Days Generated as a share of Cumulative Projection of Person Days",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 99.22,
+                                "label": "Cumulative Expenditure in Current Financial Year as a share of Total Available Funds",
+                                "description": "Cumulative Expenditure in Current Financial Year as a share of Total Available Funds",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 59.75,
+                                "label": "ABPS Enabled Accounts as a share of Total Active Workers",
+                                "description": "ABPS Enabled Accounts as a share of Total Active Workers",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 90.22,
+                                "label": "Percentage of Projects with completed geotagging",
+                                "description": "Percentage of Projects with completed geotagging",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                            {
+                                "label":"Share of women workers, and male workers with active job cards",
+                                "description": "Share of women workers, and male workers with active job cards",
+                                "data": {
+                                    "xAxis": ["Women", "Men"],
+                                    "values": [47,53]
+                                    },
+                                "type": "bar"
+                            },   
+                            {
+                                "label":"Share of SC, ST and Other workers with active job cards",
+                                "description": "Share of SC, ST and Other workers with active job cards",
+                                "data": {
+                                    "xAxis": ["SC", "ST", "Others"],
+                                    "values": [4,3,93]
+                                    },
+                                "type": "bar"
+                            }                            
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                            {
+                                "value": "INR 3,093.39",
+                                "label": "Average wage per personday",
+                                "description": "Average wage per personday",
+                                "type": "number"
+                            },
+                            {
+                                "value": "INR 3,343.14",
+                                "label": "Cost per personday",
+                                "description": "Cost per personday",
+                                "type": "number"
+                            },
+                            {
+                                "value": " INR 105.21 Lakhs",
+                                "label": "Total Payment Due",
+                                "description": "Total Payment Due",
+                                "type": "number"
+                            },
+                            {
+                                "value": "INR 1.08",
+                                "label": "Cost to Generate 1 rupee wage",
+                                "description": "Cost to Generate 1 rupee wage",
+                                "type": "number"
+                            },
+                            {
+                                "value": "91%",
+                                "label": "Employment Availed as a share of Employment Offered",
+                                "description": "Employment Availed as a share of Employment Offered",
+                                "type": "number"
+                            },
+                            {
+                                "value": "3%",
+                                "label": "Share of transactions delayed for more than 8 days",
+                                "description": "Share of transactions delayed for more than 8 days",
+                                "type": "number"
+                            },
+                            {
+                                "value": "3%",
+                                "label": "Share of amount delayed for more than 8 days",
+                                "description": "Share of amount delayed for more than 8 days",
+                                "type": "number"
+                            },
+                            {
+                                "value": "49%",
+                                "label": "Share of persondays generated for women",
+                                "description": "Share of persondays generated for women",
+                                "type": "number"
+                            }
+                        ]
+                    }
+                }
+            },
+            "public-health-engineering": {
+                "deptTitle": "Public Health Engineering",
+                "schemes": {
+                    "jjm": {
+                        "schemeTitle": "Jal Jeevan Mission (JJM)",
+                        "schemeDesc": "The National Rural Drinking Water Programme / Jal Jeevan Mission is an initiative of the Government of India under the Ministry of Jal Shakti. It aims to provide safe and adequate drinking water to all households in rural India through provision of individual household tap connections by the year 2024.",
+                        "lastUpdated": "2023-11-08",
+                        "targetTitle": "Targets",
+                        "targets": [
+                            {
+                                "value": 44.86,
+                                "label": "Percentage of HH with FHTC",
+                                "description": "Percentage of HH with FHTC",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 99.83,
+                                "label": "Percentage of schools with drinking water connection",
+                                "description": "Percentage of schools with drinking water connection",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 0.0,
+                                "label": "Percentage of health centres with water connection",
+                                "description": "Percentage of health centres with water connection",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            }
+                        ],
+                        "profileTitle": "District Profile",
+                        "profiles": [
+                            {
+                                "value": "4,00,429",
+                                "label": "HH as on April 1, 2023",
+                                "description": "HH as on April 1, 2023",
+                                "type": "number"
+                            },
+                            {
+                                "value": "957",
+                                "label": "Villages",
+                                "description": "Villages",
+                                "type": "number"
+                            },
+                            {
+                                "value": "3,780",
+                                "label": "Habitations",
+                                "description": "Habitations",
+                                "type": "number"
+                            },
+                            {
+                                "value": "4,00,429",
+                                "label": "HouseHolds",
+                                "description": "HouseHolds",
+                                "type": "number"
+                            },
+                            {
+                                "value": "19,60,242",
+                                "label": "Population",
+                                "description": "Population",
+                                "type": "number"
+                            },
+                            {
+                                "value": "0.67%",
+                                "label": "Percentage of HH with own / private connection",
+                                "description": "Percentage of HH with own / private connection",
+                                "type": "number"
+                            }
+                        ],
+                        "performanceTitle": "District Performance",
+                        "performances": [
+                            {
+                                "value": 0,
+                                "label": "Percentage of approved government offices with tap connection",
+                                "description": "Percentage of approved government offices with tap connection",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            },
+                            {
+                                "value": 0,
+                                "label": "Percentage of habitations covered with CWPP/IHP",
+                                "description": "Percentage of habitations covered with CWPP/IHP",
+                                "type": "progress",
+                                "min": 0,
+                                "max": 100
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

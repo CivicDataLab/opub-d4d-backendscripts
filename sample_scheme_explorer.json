@@ -1,0 +1,28 @@
+{
+    "tamulpur": {
+        "distTitle": "Tamulpur",
+        "depts": {
+            "panchayat-and-rural-development": {
+                "deptTitle": "Panchayat & Rural Development",
+                "schemes": {
+                    "mgnrega": {
+                        "schemeTitle": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                        "indicators": {
+                            "no-of-sc-workers-with-active-jobcards": {
+                                "indicatorTitle": "No of SC workers with active jobcards",
+                                "years": {
+                                    "2023-2024": [
+                                        {
+                                            "blockName": "Tamulpur",
+                                            "value": 3800.0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

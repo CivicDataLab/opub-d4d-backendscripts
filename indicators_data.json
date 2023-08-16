@@ -1,0 +1,502 @@
+{
+    "jjm": {
+        "District Profile": [
+            {
+                "label": "Habitations",
+                "slug": "bhinh"
+            },
+            {
+                "label": "HouseHolds",
+                "slug": "bhnhh"
+            },
+            {
+                "label": "Population",
+                "slug": "bhpop"
+            },
+            {
+                "label": "Villages",
+                "slug": "bhvil"
+            },
+            {
+                "label": "HH as on April 1, 2023",
+                "slug": "hhapr"
+            },
+            {
+                "label": "Percentage of HH with own / private connection",
+                "slug": "phopc"
+            }
+        ],
+        "Targets": [
+            {
+                "label": "Percentage of FHTC tagged",
+                "slug": "pfhtt"
+            },
+            {
+                "label": "Percentage of HH with FHTC",
+                "slug": "phftc"
+            },
+            {
+                "label": "Percentage of schools with drinking water connection",
+                "slug": "psdwc"
+            },
+            {
+                "label": "Percentage of health centres with water connection",
+                "slug": "phcwc"
+            }
+        ],
+        "District Performance": [
+            {
+                "label": "Percentage of 1-star villages",
+                "slug": "p1svl"
+            },
+            {
+                "label": "Percentage of 2-star villages",
+                "slug": "p2svl"
+            },
+            {
+                "label": "Percentage of 3-star villages",
+                "slug": "p3svl"
+            },
+            {
+                "label": "Percentage of 4-star villages",
+                "slug": "p4svl"
+            },
+            {
+                "label": "Percentage of 5-star villages",
+                "slug": "p5svl"
+            },
+            {
+                "label": "Percentage of approved government offices with tap connection",
+                "slug": "pagoc"
+            },
+            {
+                "label": "Percentage of habitations covered with CWPP/IHP",
+                "slug": "phcip"
+            }
+        ]
+    },
+    "mgnrega": {
+        "District Profile": [
+            {
+                "label": "No of active jobcards",
+                "slug": "noajc"
+            },
+            {
+                "label": "No of SC workers with active jobcards",
+                "slug": "nscjc"
+            },
+            {
+                "label": "No of ST workers with active jobcards",
+                "slug": "nstjc"
+            },
+            {
+                "label": "No of non-SC, non-ST workers with active jobcards",
+                "slug": "nonsn"
+            },
+            {
+                "label": "No of total workers with active jobcards",
+                "slug": "notww"
+            },
+            {
+                "label": "No of total women workers with active jobcards",
+                "slug": "ntwac"
+            },
+            {
+                "label": "No of persondays under Central share",
+                "slug": "nopuc"
+            },
+            {
+                "label": "No of persondays under State share",
+                "slug": "nopus"
+            },
+            {
+                "label": "No of beneficiaries who are disabled",
+                "slug": "nobwa"
+            },
+            {
+                "label": "No of SC households with jobcards",
+                "slug": "noshw"
+            },
+            {
+                "label": "No of ST households with jobcards",
+                "slug": "nsthj"
+            },
+            {
+                "label": "No of non-SC, non-ST households with jobcards",
+                "slug": "nscstj"
+            },
+            {
+                "label": "No of households with jobcards",
+                "slug": "nohwj"
+            },
+            {
+                "label": "Total no of workers",
+                "slug": "tnowo"
+            },
+            {
+                "label": "No of Aadhaar Seeded Workers",
+                "slug": "noasw"
+            },
+            {
+                "label": "Total number of transactions",
+                "slug": "ftnot"
+            },
+            {
+                "label": "Total amount of transactions",
+                "slug": "ftamt"
+            },
+            {
+                "label": "Entered Opening Balance",
+                "slug": "eobal"
+            },
+            {
+                "label": "Amount released in the current financial year",
+                "slug": "aritc"
+            },
+            {
+                "label": "Amount authorised in EFMS",
+                "slug": "aefms"
+            },
+            {
+                "label": "Total Available Funds",
+                "slug": "tavlf"
+            },
+            {
+                "label": "Balance",
+                "slug": "balam"
+            },
+            {
+                "label": "Share of SC workers with active job cards",
+                "slug": "sscjc"
+            },
+            {
+                "label": "Share of ST workers with active job cards",
+                "slug": "sstjc"
+            },
+            {
+                "label": "Share of women workers with active job cards",
+                "slug": "stwac"
+            },
+            {
+                "label": "Share of other workers with active job cards",
+                "slug": "sonsn"
+            }
+        ],
+        "District Performance": [
+            {
+                "label": "No of households which availed the offer for employment",
+                "slug": "nhaoe"
+            },
+            {
+                "label": "No of persons who availed the offer for employment",
+                "slug": "nopwa"
+            },
+            {
+                "label": "Total no of persondays availed",
+                "slug": "tnopa"
+            },
+            {
+                "label": "No of familities that completed 100 days of work",
+                "slug": "nftch"
+            },
+            {
+                "label": "No of SC households provided with employment",
+                "slug": "nscpe"
+            },
+            {
+                "label": "No of ST households provided with employment",
+                "slug": "noshp"
+            },
+            {
+                "label": "No of non-SC, non-ST households provided with employment",
+                "slug": "nscste"
+            },
+            {
+                "label": "No of households provided with employment",
+                "slug": "nohpw"
+            },
+            {
+                "label": "No of women provided with employment",
+                "slug": "nowpw"
+            },
+            {
+                "label": "No of persondays generated for SCs",
+                "slug": "pdgsc"
+            },
+            {
+                "label": "No of persondays generated for STs",
+                "slug": "pdgst"
+            },
+            {
+                "label": "No of persondays generated for non-SCs and non-STs",
+                "slug": "sctpd"
+            },
+            {
+                "label": "No of persondays generated",
+                "slug": "nopgd"
+            },
+            {
+                "label": "No of persondays generated for women",
+                "slug": "pdsgw"
+            },
+            {
+                "label": "No of SC families that completed 100 days of work",
+                "slug": "nosft"
+            },
+            {
+                "label": "No of ST families that completed 100 days of work",
+                "slug": "nsthw"
+            },
+            {
+                "label": "No of non-SC, non-ST families that completed 100 days of work",
+                "slug": "nscsth"
+            },
+            {
+                "label": "No of families that completed 100 days of work",
+                "slug": "noftc"
+            },
+            {
+                "label": "No of FTOs pending at the 1st signatory",
+                "slug": "nfpa1"
+            },
+            {
+                "label": "No of FTOs pending at the 2nd signatory",
+                "slug": "nfpa2"
+            },
+            {
+                "label": "Percentage of Aadhaar Seeded Workers",
+                "slug": "poasw"
+            },
+            {
+                "label": "Cumulative Expenditure in 2023-24 on unskilled wage",
+                "slug": "ceiou"
+            },
+            {
+                "label": "Cumulative Expenditure on unskilled wage (paid liability of previous years)",
+                "slug": "ceouw"
+            },
+            {
+                "label": "Cumulative Expenditure in 2023-24 on materials",
+                "slug": "ceiom"
+            },
+            {
+                "label": "Cumulative Expenditure on materials (paid liability of previous years)",
+                "slug": "ceomp"
+            },
+            {
+                "label": "Cumulative Expenditure in 2023-24 on administrative expenditure",
+                "slug": "ceioa"
+            },
+            {
+                "label": "Cumulative Expenditure on administrative expenditure (paid liability of previous years)",
+                "slug": "ceoae"
+            },
+            {
+                "label": "Total Cumulative Expenditure (2023-24)",
+                "slug": "tcefy"
+            },
+            {
+                "label": "Total Cumulative Expenditure (paid liability of previous years)",
+                "slug": "tcepl"
+            },
+            {
+                "label": "Total Cumulative Expenditure",
+                "slug": "tcetd"
+            },
+            {
+                "label": "Number of households that received employment",
+                "slug": "nohtr"
+            },
+            {
+                "label": "Number of persons who received employment",
+                "slug": "nopwr"
+            },
+            {
+                "label": "Number of persondays generated",
+                "slug": "npdgn"
+            },
+            {
+                "label": "Average days of employment provided per household",
+                "slug": "adoep"
+            },
+            {
+                "label": "Average wage per personday",
+                "slug": "awppd"
+            },
+            {
+                "label": "Cost per personday",
+                "slug": "cppdy"
+            },
+            {
+                "label": "Delayed Payment (more than 15 days) - No of Transactions",
+                "slug": "dpt15"
+            },
+            {
+                "label": "Delayed Payment (more than 15 days) - Total Amount",
+                "slug": "dpa15"
+            },
+            {
+                "label": "Actual Expenditure on Unskilled Wage",
+                "slug": "aeouw"
+            },
+            {
+                "label": "Actual Expenditure on Semi-Skilled and Skilled Wage",
+                "slug": "aeoss"
+            },
+            {
+                "label": "Actual Expenditure on Material",
+                "slug": "aeomt"
+            },
+            {
+                "label": "Actual Expenditure on Tax",
+                "slug": "aeotx"
+            },
+            {
+                "label": "Administrative Expenditure - Recurring",
+                "slug": "aercg"
+            },
+            {
+                "label": "Administrative Expenditure - Non Recurring",
+                "slug": "anrcg"
+            },
+            {
+                "label": "Total Administrative Expenditure",
+                "slug": "taexp"
+            },
+            {
+                "label": "Total Cumulative Expenditure",
+                "slug": "tcexp"
+            },
+            {
+                "label": "Payment Due on Unskilled Wage",
+                "slug": "pdouw"
+            },
+            {
+                "label": "Payment Due on semi-skilled and skilled wage",
+                "slug": "pdoss"
+            },
+            {
+                "label": "Payment due on material",
+                "slug": "pdmat"
+            },
+            {
+                "label": "Payment due on tax",
+                "slug": "pdtax"
+            },
+            {
+                "label": "Total Payment Due",
+                "slug": "tpdue"
+            },
+            {
+                "label": "Cost to Generate 1 rupee wage",
+                "slug": "cg1rw"
+            },
+            {
+                "label": "Employment Availed as a share of Employment Offered",
+                "slug": "easeo"
+            },
+            {
+                "label": "Number of transactions delayed for more than 8 days",
+                "slug": "ntdm8"
+            },
+            {
+                "label": "Share of transactions delayed for more than 8 days",
+                "slug": "stdm8"
+            },
+            {
+                "label": "Amount of transactions delayed for more than 8 days",
+                "slug": "tadm8"
+            },
+            {
+                "label": "Share of amount delayed for more than 8 days",
+                "slug": "smdm8"
+            },
+            {
+                "label": "Share of persondays generated for women",
+                "slug": "spgfw"
+            },
+            {
+                "label": "Cumulative Expenditure on Unskilled wage as a share of cumulative expenditure on unskilled, semi-skilled, and skilled wage",
+                "slug": "cussw"
+            },
+            {
+                "label": "Cumulative Expenditure on Unskilled wage as a share of cumulative expenditure on unskilled wage and materials",
+                "slug": "cuswm"
+            },
+            {
+                "label": "Cumulative Expenditure on materials as a share of cumulative expenditure on unskilled wage and materials",
+                "slug": "cmsum"
+            },
+            {
+                "label": "Cumulative Expenditure on Semi-skiilled and skilled wage as a share of cumulative expenditure on unskilled, semi-skilled, and skilled wage",
+                "slug": "csswa"
+            }
+        ],
+        "Targets": [
+            {
+                "label": "Cumulative Projection of Persondays (April)",
+                "slug": "cpapr"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (May)",
+                "slug": "cpmay"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (June)",
+                "slug": "cpjun"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (July)",
+                "slug": "cpjul"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (August)",
+                "slug": "cpaug"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (September)",
+                "slug": "cpsep"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (October)",
+                "slug": "cboct"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (November)",
+                "slug": "cpnov"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (December)",
+                "slug": "cpdec"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (January)",
+                "slug": "cpjan"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (February)",
+                "slug": "cpfeb"
+            },
+            {
+                "label": "Cumulative Projection of Persondays (March)",
+                "slug": "cpmar"
+            },
+            {
+                "label": "Person Days Generated as a share of Cumulative Projection of Person Days",
+                "slug": "pdcpd"
+            },
+            {
+                "label": "Cumulative Expenditure in Current Financial Year as a share of Total Available Funds",
+                "slug": "cesaf"
+            },
+            {
+                "label": "ABPS Enabled Accounts as a share of Total Active Workers",
+                "slug": "aeaaw"
+            },
+            {
+                "label": "Percentage of Projects with completed geotagging",
+                "slug": "ppcgt"
+            }
+        ]
+    }
+}

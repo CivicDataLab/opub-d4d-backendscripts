@@ -1,0 +1,98 @@
+{
+    "morigaon": {
+        "title": "Morigaon",
+        "href": "morigaon",
+        "about": "Morigaon district is an administrative district in the state of Assam in India. The district headquarters is located at Morigaon. The ancient place of occult Mayong is located in this district as well as Pobitora Wildlife Sanctuary.",
+        "link": "https://morigaon.gov.in/",
+        "collapsible": {
+            "title": "District Highlights & Information",
+            "content": {
+                "cards": [
+                    {
+                        "value": "3,19,485",
+                        "label": "No of active jobcards",
+                        "color": "highlight"
+                    },
+                    {
+                        "value": "4,36,337",
+                        "label": "No of households with jobcards",
+                        "color": "highlight"
+                    },
+                    {
+                        "value": "291",
+                        "label": "No of families that completed 100 days of work",
+                        "color": "highlight"
+                    },
+                    {
+                        "value": "INR 1.15",
+                        "label": "Cost to Generate 1 rupee wage",
+                        "color": "highlight"
+                    }
+                ],
+                "rightTitle": "AboutMorigaon",
+                "description": [
+                    "Morigaon district is an administrative district in the state of Assam in India. The district headquarters is located at Morigaon. The ancient place of occult Mayong is located in this district as well as Pobitora Wildlife Sanctuary."
+                ]
+            }
+        },
+        "listTitle": "Browse Line Departments",
+        "list": [
+            {
+                "label": "Panchayat & Rural Development",
+                "href": "panchayat-and-rural-development"
+            },
+            {
+                "label": "Public Health Engineering",
+                "href": "public-health-engineering"
+            }
+        ]
+    },
+    "nagaon": {
+        "title": "Nagaon",
+        "href": "nagaon",
+        "about": "Nagaon is an administrative district in the Indian state of Assam. The undivided district was the most populous in the state as per 2011 census. The eastern, western, and southern fringes of the newly organized district were once ruled by different small feudal kings or their agents. It was a newly organized village system-hence called \u201cNagaon\u201d, Na meaning new.",
+        "link": "https://nagaon.assam.gov.in/",
+        "collapsible": {
+            "title": "District Highlights & Information",
+            "content": {
+                "cards": [
+                    {
+                        "value": "4,82,540",
+                        "label": "No of active jobcards",
+                        "color": "highlight"
+                    },
+                    {
+                        "value": "6,79,157",
+                        "label": "No of households with jobcards",
+                        "color": "highlight"
+                    },
+                    {
+                        "value": "1,302",
+                        "label": "No of families that completed 100 days of work",
+                        "color": "highlight"
+                    },
+                    {
+                        "value": "INR 1.12",
+                        "label": "Cost to Generate 1 rupee wage",
+                        "color": "highlight"
+                    }
+                ],
+                "rightTitle": "AboutNagaon",
+                "description": [
+                    "Nagaon is an administrative district in the Indian state of Assam. The undivided district was the most populous in the state as per 2011 census. The eastern, western, and southern fringes of the newly organized district were once ruled by different small feudal kings or their agents. It was a newly organized village system-hence called \u201cNagaon\u201d, Na meaning new."
+                ]
+            }
+        },
+        "listTitle": "Browse Line Departments",
+        "list": [
+            {
+                "label": "Panchayat & Rural Development",
+                "href": "panchayat-and-rural-development"
+            },
+            {
+                "label": "Public Health Engineering",
+                "href": "public-health-engineering"
+            }
+        ]
+    }
+}

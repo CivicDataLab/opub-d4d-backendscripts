@@ -1,0 +1,237 @@
+{"morigaon" :
+    {
+        "distTitle": "Morigaon",
+        "depts" :
+            {
+                "panchayat-and-rural-development" : 
+                   {
+                        "deptTitle": "Panchayat & Rural Development",
+                        "collapsible": {
+                        "title": "Department Information",
+                        "content": [
+                            "It is a long established fact that a reader will be distracted by the readable content of a page"
+                            ]
+                        },
+                        "listTitle": "Browse Schemes and Surveys",
+                        "list": [
+                        {
+                            "label": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                            "href": "mgnrega",
+                            "image": "/logo/mgnrega.webp",
+                            "lastUpdated": "26 July (1d ago)",
+                            "cards": [
+                            {
+                                "value": "₹ 297",
+                                "label": "Average Daily Wage"
+                            },
+                            {
+                                "value": "₹ 425",
+                                "label": "Cost / PersonDay"
+                            },
+                            {
+                                "value": "37.6",
+                                "label":"Person Days Generated",
+                                "type" : "progress"
+                            }
+                            ]
+                        },
+                        {
+                            "label": "National Rural Health Mission (NHM)",
+                            "href": "nhm",
+                            "image": "/logo/nhm.png",
+                            "lastUpdated": "25 July (2d ago)",
+                            "cards": [
+                            {
+                                "value": "₹ 297",
+                                "label": "Average Daily Wage"
+                            },
+                            {
+                                "value": "₹ 425",
+                                "label": "Cost / PersonDay"
+                            },
+                            {
+                                "value": "₹ 1.73",
+                                "label": "Expenditure to generate one rupee wage"
+                            }
+                            ]
+                        }
+                        ]
+                    },
+                "public-health-engineering"  :
+                    {
+                        "deptTitle": "Public Health Engineering",
+                        "collapsible": {
+                        "title": "Department Information",
+                        "content": [
+                            "It is a long established fact that a reader will be distracted by the readable content of a page"
+                            ]
+                        },
+                        "listTitle": "Browse Schemes and Surveys",
+                        "list": [
+                        {
+                            "label": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                            "href": "mgnrega",
+                            "image": "/logo/mgnrega.webp",
+                            "lastUpdated": "26 July (1d ago)",
+                            "cards": [
+                            {
+                                "value": "₹ 297",
+                                "label": "Average Daily Wage"
+                            },
+                            {
+                                "value": "₹ 425",
+                                "label": "Cost / PersonDay"
+                            },
+                            {
+                                "value": "37.6",
+                                "label":"Person Days Generated",
+                                "type" : "progress"
+                            }
+                            ]
+                        },
+                        {
+                            "label": "National Rural Health Mission (NHM)",
+                            "href": "nhm",
+                            "image": "/logo/nhm.png",
+                            "lastUpdated": "25 July (2d ago)",
+                            "cards": [
+                            {
+                                "value": "₹ 297",
+                                "label": "Average Daily Wage"
+                            },
+                            {
+                                "value": "₹ 425",
+                                "label": "Cost / PersonDay"
+                            },
+                            {
+                                "value": "₹ 1.73",
+                                "label": "Expenditure to generate one rupee wage"
+                            }
+                            ]
+                        }
+                        ]
+
+                    }
+
+            }
+
+    },
+ "morigaon-1" :
+    {
+        "distTitle": "Morigaon1",
+        "depts" :
+            {
+                "panchayat-and-rural-development" : 
+                   {
+                        "deptTitle": "Panchayat & Rural Development",
+                        "collapsible": {
+                        "title": "Department Information",
+                        "content": [
+                            "It is a long established fact that a reader will be distracted by the readable content of a page"
+                            ]
+                        },
+                        "listTitle": "Browse Schemes and Surveys",
+                        "list": [
+                        {
+                            "label": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                            "href": "mgnrega",
+                            "image": "/logo/mgnrega.webp",
+                            "lastUpdated": "26 July (1d ago)",
+                            "cards": [
+                            {
+                                "value": "₹ 297",
+                                "label": "Average Daily Wage"
+                            },
+                            {
+                                "value": "₹ 425",
+                                "label": "Cost / PersonDay"
+                            },
+                            {
+                                "value": "37.6",
+                                "label":"Person Days Generated",
+                                "type" : "progress"
+                            }
+                            ]
+                        },
+                        {
+                            "label": "National Rural Health Mission (NHM)",
+                            "href": "nhm",
+                            "image": "/logo/nhm.png",
+                            "lastUpdated": "25 July (2d ago)",
+                            "cards": [
+                            {
+                                "value": "₹ 297",
+                                "label": "Average Daily Wage"
+                            },
+                            {
+                                "value": "₹ 425",
+                                "label": "Cost / PersonDay"
+                            },
+                            {
+                                "value": "₹ 1.73",
+                                "label": "Expenditure to generate one rupee wage"
+                            }
+                            ]
+                        }
+                        ]
+                    },
+                "public-health-engineering"  :
+                    {
+                        "deptTitle": "Public Health Engineering",
+                        "collapsible": {
+                        "title": "Department Information",
+                        "content": [
+                            "It is a long established fact that a reader will be distracted by the readable content of a page"
+                            ]
+                        },
+                        "listTitle": "Browse Schemes and Surveys",
+                        "list": [
+                        {
+                            "label": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+                            "href": "mgnrega",
+                            "image": "/logo/mgnrega.webp",
+                            "lastUpdated": "26 July (1d ago)",
+                            "cards": [
+                            {
+                                "value": "₹ 297",
+                                "label": "Average Daily Wage"
+                            },
+                            {
+                                "value": "₹ 425",
+                                "label": "Cost / PersonDay"
+                            },
+                            {
+                                "value": "37.6",
+                                "label":"Person Days Generated",
+                                "type" : "progress"
+                            }
+                            ]
+                        },
+                        {
+                            "label": "National Rural Health Mission (NHM)",
+                            "href": "nhm",
+                            "image": "/logo/nhm.png",
+                            "lastUpdated": "25 July (2d ago)",
+                            "cards": [
+                            {
+                                "value": "₹ 297",
+                                "label": "Average Daily Wage"
+                            },
+                            {
+                                "value": "₹ 425",
+                                "label": "Cost / PersonDay"
+                            },
+                            {
+                                "value": "₹ 1.73",
+                                "label": "Expenditure to generate one rupee wage"
+                            }
+                            ]
+                        }
+                        ]
+
+                    }
+
+            }
+
+    }    
+}
